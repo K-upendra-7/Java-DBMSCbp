@@ -2,9 +2,12 @@
 
 **For Time create a new Floder**
 follow below step 
+---
 create a folder
-open terminal in that folder 
+open terminal in that folder
 git clone https://github.com/K-upendra-7/Java-DBMSCbp
+
+---
 
 from next time when you start working 
 open terminal in the git folder 
